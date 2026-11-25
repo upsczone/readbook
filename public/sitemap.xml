@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://ebook.upsczone.in/</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ebook.upsczone.in/assets/aistudio/file_00000000fea08211a54c9f5c703f9ef2_252fbe81.png</image:loc>
+      <image:title>ReadBook by UPSC ZONE AI Official Emblem</image:title>
+    </image:image>
+  </url>
+</urlset>

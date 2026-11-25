@@ -1,0 +1,30 @@
+# ReadBook by UPSC ZONE AI
+
+> ReadBook by UPSC ZONE AI (https://ebook.upsczone.in/) is an all-in-one digital library and distraction-free reader built specifically for UPSC Civil Services Examination (CSE) aspirants. It brings together 450+ standard reference eBooks, Class VI–XII NCERTs, monthly policy magazines (Yojana, Kurukshetra), and 6:00 AM daily newspaper editorial digests in both English and Hindi medium with 100% offline reading support.
+
+## Website & Official Android App
+- Website: https://ebook.upsczone.in/
+- Google Play Store: https://play.google.com/store/apps/details?id=in.upsczone.readbook
+- Package ID: `in.upsczone.readbook`
+- Platform: Android (Phones & Tablets)
+- Supported Languages: English (`en-IN`), Hindi (`hi-IN`)
+
+## Key Features
+- **Ebooks Collection**: 450+ standard UPSC books and Class VI–XII NCERTs (Old & New editions) covering Indian Polity, Modern Indian History, Economy, Geography, Environment, Art & Culture, and Ethics.
+- **Daily Magazines**: Monthly and daily issues of Yojana, Kurukshetra, Down To Earth climate briefs, Science Reporter, and Budget/Economic Survey digests in English and Hindi.
+- **Newspaper Archive**: Searchable date-wise archive of The Hindu, Indian Express, Mint, and PIB daily releases updated by 6:00 AM IST with Prelims pointers and Mains GS paper tagging.
+- **100% Offline Reader**: Single-tap download saves books, magazines, and newspaper digests inside compressed app storage for zero-internet study in libraries and commutes.
+- **Smart Highlights & Revision Notes**: Four-color semantic highlighting, personal margin notes, and auto-compiled chapter-wise revision notebooks.
+- **Eye-Care Reading Modes**: Day Paper, Warm Sepia, and Midnight Slate dark mode with customizable typography and line spacing for 8+ hour study sessions.
+
+## Syllabus Coverage
+- **GS Paper I**: Heritage, Art & Culture, Modern Indian History, Society, and Physical & Indian Geography.
+- **GS Paper II**: Indian Polity & Constitution, Governance, Social Justice, 2nd ARC Digests, and International Relations.
+- **GS Paper III**: Indian Economy, Union Budget & Economic Survey, Agriculture, Environment & Ecology, Science & Tech, and Internal Security.
+- **GS Paper IV**: Ethics, Integrity, Aptitude, Thinkers, and 60+ Solved UPSC Mains Case Studies.
+- **CSAT & Essay**: Reading comprehension passages and socio-economic/philosophical essay compendiums.
+
+## Frequently Asked Questions
+- **Offline Access**: Yes, all downloaded NCERTs, standard eBooks, magazines, and daily newspaper digests work 100% offline.
+- **Bilingual Support**: Yes, dedicated Hindi and English medium materials are included across NCERTs, standard books, Yojana, Kurukshetra, and PIB briefs.
+- **Daily Update Schedule**: Morning newspaper editorial digests publish by 6:00 AM IST, followed by evening PIB and Sansad TV policy summaries.
