@@ -1,0 +1,6 @@
+{
+  "name": "UPSCZone ReadBook",
+  "description": "E-Books, Monthly Magazines, NCERTs & Daily Newspapers Reader for UPSC Civil Services Aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
